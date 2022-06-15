@@ -17,7 +17,7 @@ export const FooterInfo = styled.div`
 `;
 
 export const Language = styled.div`
-  display: flex;
+  /* display: flex; */
   span {
     padding: 0.3125rem;
     cursor: pointer;
